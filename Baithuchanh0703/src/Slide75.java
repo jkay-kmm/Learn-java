@@ -31,4 +31,4 @@ public class Slide75 {
         }
         System.out.printf("Tong cac so chan cua mang la: %d",tong);
     }
-}
+}                   
